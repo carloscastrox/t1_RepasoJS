@@ -1,0 +1,27 @@
+#btnUpdate {
+  display: none;
+}
+
+/* (Opcional) estilos del mensaje para Callbacks*/
+#output.ok {
+  color: #198754;
+  font-weight: 700;
+}
+#output.bad {
+  color: #dc3545;
+  font-weight: 700;
+}
+
+/* (Opcional) estilos Promise*/
+
+.ok {
+  background: #e8fff0;
+  border: 1px solid #2ecc71;
+}
+.err {
+  background: #ffecec;
+  border: 1px solid #e74c3c;
+}
+code {
+  font-weight: bold;
+}
