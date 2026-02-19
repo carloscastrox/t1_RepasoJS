@@ -33,6 +33,16 @@ Cada concepto tiene su propio módulo dentro de la estructura Feature-Based:
 | `asyncawait` | Ejercicios con funciones asíncronas usando `async` / `await`. |
 | `destructuring` | Ejemplos prácticos de desestructuración de objetos. |
 
+## 🎨 Interfaz gráfica
+
+El proyecto utiliza:
+
+- **Bootstrap 5.3.3**
+- **Bootstrap Icons**
+- Navbar fija en la parte superior
+- Paleta oscura para mayor comodidad visual
+- Estilos personalizados en `/src/shared/css/styles.css`
+
 ---
 
 ## 🧱 Estructura del Proyecto (Feature-Based)
@@ -63,18 +73,6 @@ index.html
 ```
 
 Cada *feature* contiene su propia vista, script y recursos necesarios para funcionar de manera independiente.
-
----
-
-## 🎨 Interfaz gráfica
-
-El proyecto utiliza:
-
-- **Bootstrap 5.3.3**
-- **Bootstrap Icons**
-- Navbar fija en la parte superior
-- Paleta oscura para mayor comodidad visual
-- Estilos personalizados en `/src/shared/css/styles.css`
 
 ---
 
